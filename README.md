@@ -1,7 +1,5 @@
 ### Olá, Eu sou o Guilherme Segabinassi da Cunha 👋
 
-![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/guilherme-segabinassi-dev/)
-
 - 💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 🌟 Desenvolvedor **Front-end**, mas minha verdadeira paixão reside no **Backend**.
 - 🚀 Explorando as complexidades de sistemas robustos e arquitetando soluções eficientes.
